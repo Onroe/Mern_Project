@@ -1,5 +1,5 @@
 {
-  "name": "03_mongodb",
+  "name": "04_controller",
   "version": "1.0.0",
   "description": "Notes MERN Project",
   "main": "server.js",
