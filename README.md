@@ -19,9 +19,9 @@ Project Modules
 10. : Frontend - Login JWT
 11. : Frontend - Roles and Permissions
 12. : Frontend - Ready to deploy
-13. : Backend - Ready to deploy
+12. : Backend - Ready to deploy
 
-###  fork folders 12 and 13.
+###  fork folders 12 frontend and 12 backend.
 
 Cd to directory 12
 
