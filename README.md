@@ -1,5 +1,5 @@
 # Mern_Project
-MERN  [MongoDB,Express,React, Nodejs]. Stack Fullstack Project
+MERN Stack [MongoDB,Express,React, Nodejs].Fullstack Project
 
 # Requirements
 - MongoDB
